@@ -12,7 +12,7 @@ import android.view.View
 class DrawView : View {
 
     constructor(context: Context?) : super(context) {
-        //  setUpDrawing()
+        // setUpDrawing()
     }
 
     constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs) {
