@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="paint">Paint</string>
+    <string name="pen">Draw</string>
+    <string name="erase">Erase</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="done">Done</string>
+    <string name="colours">Colors</string>
+    <string name="size">Size</string>
+</resources>
