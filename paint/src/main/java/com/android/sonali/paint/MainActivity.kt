@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun onDrawClick(view : View?)
     {
-       // drawView?.setUpDrawing()
+        drawView?.setUpDrawing()
     }
 
     fun paintClicked(view : View?)
